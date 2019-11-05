@@ -1,0 +1,40 @@
+/* Type */
+
+body {
+	background-color: yellow;
+	color: #571a8e80;
+	line-height: 1;
+    font-size: 5em;
+}
+.new-color {
+	color: beige;
+font-weight: 600;
+margin-right: 2
+
+}
+.other-font {
+	font-family: serif;
+}
+
+.first-paragraph {
+	color: coral;
+	top: 80px;
+	margin: 0;
+	left: 270px;
+	transform-origin: middle;
+	transform: rotateX(180deg);
+	filter: blur(1px);
+	mix-blend-mode: multiply;
+	text-transform: uppercase;
+	position:relative;
+}
+
+.big-letter {
+	  font-family: sans-serif;
+    font-size: 1.11em;
+    color: black;
+}
+.blue{
+	color: blue;
+	font-size: 2em
+}
